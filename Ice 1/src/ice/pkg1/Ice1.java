@@ -6,7 +6,6 @@ package ice.pkg1;
 
 /**author karan
  *
- * @author maitr
  */
 public class Ice1 {
 
